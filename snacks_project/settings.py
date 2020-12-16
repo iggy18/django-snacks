@@ -38,8 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    ## this is where you connect the app below is the file path
-    'snacks.apps.SnacksConfig'
+    'snacks'
 ]
 
 MIDDLEWARE = [
